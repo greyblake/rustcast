@@ -1,0 +1,3 @@
+/episodes/*/target/
+**/*.rs.bk
+Cargo.lock
