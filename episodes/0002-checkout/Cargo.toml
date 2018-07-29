@@ -1,0 +1,9 @@
+[package]
+name = "checkout"
+version = "0.1.0"
+authors = ["Sergey Potapov <blake131313@gmail.com>"]
+
+[dependencies]
+
+[dev-dependencies]
+pretty_assertions = "0.5.1"
