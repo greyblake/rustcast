@@ -1,5 +1,7 @@
 # Iterators
 
+[See the video on youtube](https://www.youtube.com/watch?v=pgFWz0jgqMU)
+
 Implement an iterator, that traverse vector of integers and produces those items,
 which follow an odd number.
 
